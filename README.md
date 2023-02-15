@@ -1,1 +1,1 @@
-#!/bin/bash
+alias project
